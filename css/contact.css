@@ -1,0 +1,38 @@
+#emailPic{
+    padding-top: 5%;
+}
+
+#linkedIn{
+    vertical-align: top;
+}
+
+.contactImages{
+    display: inline;
+    text-align: center;
+    vertical-align: top;
+
+}
+
+#nashvillePic{
+    border-radius: 10px;
+    display: block;
+    width: 50%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+#beanPic{
+    border-radius: 10px;
+    display: block;
+    width: 50%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
