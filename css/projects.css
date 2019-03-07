@@ -1,0 +1,40 @@
+#airdocPic{
+    border-radius: 10px;
+    display: block;
+    width: 25%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#airdocText{
+    text-align: center;
+}
+
+#constellisText{
+    text-align: center;
+
+}
+
+#constellisPic{
+    display: block;
+    width: 25%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#todayshowVid{
+    display: block;
+    margin: 0 auto;
+}
+
+#projectHeader{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
