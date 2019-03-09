@@ -6,7 +6,8 @@
 body {
     background-color: #1E2019;
     color: white;
-    font-family: 'Raleway', sans-serif;}
+    font-family: 'Raleway', sans-serif;
+}
 
 #dashItems {
     list-style-type: none;
@@ -29,7 +30,6 @@ body {
     text-align: center;
     padding: 16px;
     text-decoration: none;
-
 }
 
 .items a:hover {
@@ -47,6 +47,7 @@ body {
     background-color: white;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
+
 h2 {
     text-align: center;
     border: 5px solid #35435A;
