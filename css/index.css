@@ -25,7 +25,8 @@ body {
     margin: 0 5em;
 }
 
-.items a {
+.items
+a {
     display: block;
     color: white;
     text-align: center;
@@ -33,7 +34,8 @@ body {
     text-decoration: none;
 }
 
-.items a:hover {
+.items
+a:hover {
     background-color: #35435A;
     font-size: larger;
 }
