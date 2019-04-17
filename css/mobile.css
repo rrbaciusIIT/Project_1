@@ -23,7 +23,15 @@
         box-shadow: 0 10px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
         position: static;
     }
-
+    #dashItems {
+        list-style-type: none;
+        margin: 0;
+        padding-left: 2%;
+        overflow: hidden;
+        background-color: #333333;
+        text-align: center;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
 
 
 }
@@ -53,5 +61,13 @@
         box-shadow: 0 10px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
         position: static;
     }
-
+    #dashItems {
+        list-style-type: none;
+        margin: 0;
+        padding-left: 2%;
+        overflow: hidden;
+        background-color: #333333;
+        text-align: center;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
 }
