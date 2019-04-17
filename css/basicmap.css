@@ -1,7 +1,13 @@
 /* Always set the map height explicitly to define the size of the div
     * element that contains the map. */
 #map {
-    height: 82%;
+    margin-top: 3%;
+    margin-left: 10%;
+    height: 70%;
+    width: 80%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
 }
 /* Optional: Makes the sample page fill the window. */
 html, body {
