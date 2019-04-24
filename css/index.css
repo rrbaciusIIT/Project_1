@@ -8,6 +8,8 @@ body {
     background-color: #1E2019;
     color: white;
     font-family: 'Raleway', sans-serif;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 #dashItems {
