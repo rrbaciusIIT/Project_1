@@ -1,0 +1,62 @@
+@import url("https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css");
+
+.social-footer {
+    text-align: center;
+    margin-top: -40px;
+    position: relative;
+}
+
+.social-icon-background {
+    font-size: 1.8rem;
+    line-height: 1.2rem;
+    background-color: #fff;
+    padding: 10;
+    margin: 50px;
+    width: 35px;
+    height: 35px;
+    border-radius: 50px;
+    text-align: center;
+    display: inline-block;
+    -webkit-transition: .7s; /* Safari */
+    transition: .7s;
+}
+
+.social-icon-background a {
+    position: relative; /* Not needed in my WP theme for top spacing */
+    top: 4px;
+    color: #303030;
+    -webkit-transition: .7s; /* Safari */
+    transition: .7s;
+    -webkit-opacity: 1;
+    -moz-opacity: 1;
+    opacity: 1;
+}
+
+.ion-social-twitter,
+.ion-social-instagram-outline,
+.ion-social-dribbble-outline,
+.ion-social-linkedin,
+.ion-social-github {
+    margin-left: -8px;
+    padding: 11px;
+}
+
+.social-icon-background:hover {
+    background-color: #303030;
+}
+
+.social-icon-background a:hover,
+.social-icon-background a:active,
+.social-icon-background a:focus {
+    color: #fff;
+}
+
+@media screen and (max-width: 1030px){
+    .social-footer {
+        position: absolute;
+        width:292px;
+        margin-top: -60px;
+        margin-left:-146px;
+        left:50%;
+    }
+}
